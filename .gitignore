@@ -1,0 +1,6 @@
+# Arquivos temporários do CODESYS
+*.bak
+*.lock
+*.compileinfo
+/Archive/
+/Precompile/
